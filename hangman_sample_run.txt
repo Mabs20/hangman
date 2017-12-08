@@ -1,0 +1,31 @@
+Python 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:14:34) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+============ RESTART: C:\Users\mbuena7122\CP1\Hangman\hangman.py ============
+***************
+****Hangman****
+***************
+
+What is your name? Marc
+Welcome to my hangman game, Marc!
+You'll only have 6 tries to get the word
+-------
+-------
+Guess a letter: h
+h------
+Guess a letter: a
+ha---a-
+Guess a letter: n
+han--an
+Guess a letter: g
+hang-an
+Guess a letter: m
+hangman
+You win!
+Would you like to play again? (y/n) n
+
+Ok, Bye!
+
+This awesome hangman game was made by Marc.
+      Created on Novemenber 11, 2017         
+>>> 
